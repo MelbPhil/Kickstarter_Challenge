@@ -18,7 +18,7 @@ The following should help Louise determine the optimal time of year for launchin
 ### Analysis of Outcomes Based on Goals
 
 The following should help Louise determine the liklihood of reaching various fundraising thresholds. Building the table behind this chart required carefully building a table that categorized the number of Successful, Failed and Canceled campaigns in each Goal bracket. Subsequent calculations of these numbers enabled me to determine the following percentile distribution:
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/106599446/171684811-c2c36b26-522d-4e8c-8d1e-6dfdba612232.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/106599446/171743802-6e2aefca-30a4-4928-abf1-9ab48272243b.png)
 
 ### Challenges and Difficulties Encountered
 
