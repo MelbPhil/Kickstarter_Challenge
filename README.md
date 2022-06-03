@@ -14,13 +14,13 @@ The raw kickstarter data for this project contains far more information than is 
 
 The following should help Louise determine the optimal time of year for launching a theater campaign. Constructing this chart required first converting Unix timestamps into easily interpretable dates. By constructing a pivot table, and using proper filters, I was able to create the following graphic:
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/106599446/171684771-faa47548-156f-4d07-899a-2a8d3f34d589.png)
-Interpretation found below.
+_Interpretation found under 'Results'_
 
 ### Reviewing Outcomes Based on Goals
 
 The following should help Louise determine whether increasing or lowering her kickstarter's fundraising goal will impact its liklihood of succeeding. Constructing the table that is powering this chart required outlining multiple sets of criteria _('outcomes'/'goal amount'/'play subcategory')_ for determining which datapoints should be counted within each bracket. Subsequent calculations of these numbers enabled me to determine the following percentile distribution:
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/106599446/171743802-6e2aefca-30a4-4928-abf1-9ab48272243b.png)
-Interpretation found below.
+_Interpretation found under 'Results'_
 
 ### Challenges and Difficulties Encountered
 
