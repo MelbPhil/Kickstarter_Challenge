@@ -13,7 +13,7 @@ The raw kickstarter data for this project contains far more information than is 
 ### Reviewing Outcomes Based on Launch Date
 
 The following should help Louise determine the optimal time of year for launching a theater campaign. Constructing this chart required first converting Unix timestamps into easily interpretable dates. By constructing a pivot table, and using proper filters, I was able to create the following graphic:
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/106599446/171684771-faa47548-156f-4d07-899a-2a8d3f34d589.png)
+![Outcomes_vs_Launch](https://user-images.githubusercontent.com/106599446/172250716-afce9c7a-cdcd-412c-8762-26bd6769c32d.png)
 _Interpretation found under 'Results'_
 
 ### Reviewing Outcomes Based on Goals
